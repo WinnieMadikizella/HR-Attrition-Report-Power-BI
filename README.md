@@ -27,11 +27,17 @@ Built using **Power BI**, the dashboard allows for **interactive filtering** by:
 
 ## Analysis and Dashboards
 
-![Dashboard Preview](https://raw.githubusercontent.com/WinnieMadikizella/HR-Attrition-Report/main/homepage.JPG)
+![Homepage](screenshots/homepage.JPG)
 
-![Dashboard Preview](https://github.com/WinnieMadikizella/HR-Attrition-Report/blob/main/pg1.JPG)
+### 📄 Page 1
+![Page 1](screenshots/pg1.JPG)
 
-![Dashboard Preview](https://github.com/WinnieMadikizella/HR-Attrition-Report/blob/main/pg2.JPG)
+### 📄 Page 2
+![Page 2](screenshots/pg2.JPG)
+
+### 📄 Page 3
+![Page 3](screenshots/pg3.JPG)
+
 
 ## Key Insights  
 
